@@ -1,22 +1,19 @@
-# jimmy-choi-writing-portfolio
-Writing samples including research summaries, business writing, and analytical essays.
 # Jimmy Choi — Writing Portfolio
 
-This repository contains selected writing samples across research, business writing, and analytical content.
+This repository contains selected writing samples demonstrating clarity, analytical thinking, and the ability to translate complex topics for diverse audiences.
 
-## ✨ Writing Areas
-- Research and academic writing
+## ✨ Writing Strengths
+- Research-driven analysis
 - Business and operational documentation
 - Data storytelling
-- SEO and short-form content
+- Structured argumentation
+- SEO-friendly content
 
-## 📄 Samples
-| Title | Type | Topic |
-|------|------|-------|
-| (Coming Soon) | Essay | Academic integrity |
-| (Coming Soon) | Article | Gender equity analysis |
-| (Coming Soon) | Report | Data insights |
+## 📄 Selected Samples
+| Title | Format | Topic |
+|------|--------|-------|
+| (Your uploaded file name) | Essay / Article | (Topic) |
 
-## 🧠 Purpose
-This portfolio demonstrates clarity, structure, critical thinking, and the ability to translate complex ideas into accessible writing.
+## 🎯 Purpose
+This portfolio supports applications for research, analytics communication, and content roles.
 
